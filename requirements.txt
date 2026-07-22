@@ -7,3 +7,4 @@ langgraph
 python-dotenv
 ipykernel
 pip
+langchain-tavily
