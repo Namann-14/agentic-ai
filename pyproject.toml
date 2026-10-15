@@ -15,4 +15,5 @@ dependencies = [
     "langgraph>=1.2.9",
     "pip>=26.1.2",
     "python-dotenv>=1.2.2",
+    "scikit-learn>=1.9.1",
 ]

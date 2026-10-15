@@ -8,3 +8,4 @@ python-dotenv
 ipykernel
 pip
 langchain-tavily
+scikit-learn
