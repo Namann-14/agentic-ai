@@ -29,4 +29,5 @@ dependencies = [
     "rapidocr-onnxruntime>=1.4.4",
     "requests>=2.34.2",
     "scikit-learn>=1.9.1",
+    "termcolor>=3.3.0",
 ]
